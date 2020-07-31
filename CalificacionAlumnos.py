@@ -56,4 +56,4 @@ class Materia:
         print(f"Estado de Aprobacion: {lista2}")
 
 promedios = Materia()
-promedios.totalAlumnos();
+promedios.totalAlumnos();;
